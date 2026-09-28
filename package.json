@@ -1,0 +1,8 @@
+{
+  "name": "student-feedback-app",
+  "version": "1.0.0",
+  "description": "Simple student feedback web application",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
